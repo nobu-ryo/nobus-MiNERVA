@@ -1,4 +1,4 @@
-![koganeifes_login](koganeifes_login.png)
+![koganeifes_login](img/koganeifes_login.png)
 |使用する部品| | | | |
 |:----|:----|:----|:----|:----|
 |ログイン画面で使用する部品には、ID・パスワードの入力にテキストボックスとログインボタンがある| | | | |
